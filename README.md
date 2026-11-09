@@ -131,34 +131,25 @@ A suitable follow-up project is an AI study assistant that helps students organi
 
 Objective: Build a simple application that accepts a student's question and returns a useful answer using an appropriate AI model or service.
 
-Proposed architecture:
-
-flowchart LR
-    A[Student] --> B[Application Interface]
-    B --> C[Input Validation]
-    C --> D[AI Model or Service]
-    D --> E[Answer Processing]
-    E --> F[Display Answer]
-    B --> G[Optional Cloud Storage]
 
 Implementation stages:
 
-Define the use case and expected outputs.
-Design a simple user interface.
-Implement input validation.
-Integrate an AI model or service if available.
-Add error handling and output checks.
-Test the application with different questions.
-Deploy to a cloud platform if resources are available.
-Document limitations, security considerations, and setup instructions.
+1. Define the use case and expected outputs.
+2. Design a simple user interface.
+3. Implement input validation.
+4. Integrate an AI model or service if available.
+5. Add error handling and output checks.
+6. Test the application with different questions.
+7. Deploy to a cloud platform if resources are available.
+8. Document limitations, security considerations, and setup instructions.
 
 Expected learning outcomes:
 
-Understanding the structure of an AI-powered application.
-Learning how application components communicate.
-Practicing input validation and error handling.
-Exploring cloud deployment concepts.
-Documenting a project for other developers.
+1. Understanding the structure of an AI-powered application.
+2. Learning how application components communicate.
+3. Practicing input validation and error handling.
+4. Exploring cloud deployment concepts.
+5. Documenting a project for other developers.
 
 
 
@@ -169,17 +160,17 @@ Documenting a project for other developers.
 
 My key learning goals and takeaways are:
 
-Understanding AI: Learning how data-driven systems can support classification, prediction, automation, and decision-making.
+1. Understanding AI: Learning how data-driven systems can support classification, prediction, automation, and decision-making.
 
-Understanding cloud computing: Learning how computing and storage resources can be accessed and managed through cloud services.
+2. Understanding cloud computing: Learning how computing and storage resources can be accessed and managed through cloud services.
 
-Connecting AI and cloud: Understanding how cloud infrastructure can support AI applications and their deployment.
+3. Connecting AI and cloud: Understanding how cloud infrastructure can support AI applications and their deployment.
 
-Responsible development: Recognizing the importance of privacy, security, bias awareness, and model evaluation.
+4. Responsible development: Recognizing the importance of privacy, security, bias awareness, and model evaluation.
 
-Technical communication: Learning to organize technical information through structured documentation and workflow diagrams.
+5. Technical communication: Learning to organize technical information through structured documentation and workflow diagrams.
 
-Continuous learning: Identifying opportunities to build practical projects and deepen technical knowledge.
+6. Continuous learning: Identifying opportunities to build practical projects and deepen technical knowledge.
 
 
 
