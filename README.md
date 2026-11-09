@@ -1,8 +1,8 @@
 
 
 <h1 align="center">🚀 AICTE Internship – IBM SkillsBuild</h1>
-<h3 align="center">🤖 Artificial Intelligence | ☁️ Cloud Computing | 💡 Innovation</h3>
-<p align="center">Exploring the power of AI and Cloud Computing through hands-on learning, real-world applications, and innovative workflows to build a smarter, technology-driven future.</p>
+<h3 align="center">🤖 Artificial Intelligence | ☁️ Cloud Computing | 💡 Innovation </h3>
+<p align="center">Exploring the power of Artificial Intelligence and Cloud Computing through hands-on learning, and innovative workflows to build a smarter, technology-driven future.</p>
 
 <h2 align="center">👋 Welcome to My Internship Repository!</h2>
 
