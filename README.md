@@ -108,11 +108,6 @@ AICTE-IBM-SkillsBuild-Internship/
 │
 ├── README.md
 │
-├── docs/
-│   ├── ai-fundamentals.md
-│   ├── machine-learning.md
-│   ├── cloud-computing.md
-│   └── responsible-ai.md
 │
 ├── notebooks/
 │   └── README.md
